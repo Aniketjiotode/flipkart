@@ -1,0 +1,106 @@
+
+    
+  
+
+
+  
+
+   
+   
+
+
+
+
+/* 
+
+    #foot{
+      background-color: rgba(40, 79, 185, 0.403) !important;
+      color: rgb(8, 8, 8) !important;
+     }
+     #foot a{
+      text-decoration: none;
+      color: white !important;
+     }
+     #social li{
+      list-style: none;
+     }
+
+    footer{
+       margin-bottom: 0px;
+    }
+  */
+
+  footer{
+   position:relative;
+   color:#565656;
+   width:100%;
+   margin-bottom:10px;
+ }
+ footer .container .col-sm-4 ul li a{
+   color:#565656;
+ }
+ footer .container .col-sm-4 ul li a:hover{
+   text-decoration:none;
+ }
+ 
+ footer .container-fluid span{
+   font-size:30px;
+   position:absolute;
+   top:25%;
+   left:12%;
+ }
+ footer .container-fluid h3{
+   font-size:20px;
+   margin-left:30px;
+ }
+ 
+ footer .contact button{
+   background-color:#565656;
+   color:#fff;
+   margin-bottom:20px;
+ }
+ @media (min-width:863px){
+   footer .container-fluid span{
+   font-size:40px;
+   position:absolute;
+   top:10%;
+   
+ }
+ footer .container-fluid h3{
+  font-size:1.9rem; 
+   
+   width:70%;
+   position:relative;
+   left:1%;
+   top:-10px;
+ } 
+ }
+ a{
+   text-decoration: none;
+ }
+ .iconss{
+   border-radius: 50%;
+    width: 40px;
+     height: 40px;
+margin-left: 0px;
+padding-left: 0px;
+
+ }
+  #social li{
+    list-style: none;
+   }
+
+   .heading h4{
+      margin-left: 0px;
+   
+   }
+ 
+   
+
+ .facility svg{
+  
+   display: inline-block;
+   position: relative;
+   top:40px;
+   margin-left: 0px;
+  }

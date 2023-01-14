@@ -1,0 +1,59 @@
+*{
+    margin: 0x;
+    padding: 0px;
+    box-sizing: border-box;
+   
+}
+.icon{
+    height: 7rem;
+    width: 100%;
+    display: flex;
+    padding-left:6rem ;
+    position: relative;
+}
+
+
+ .icon1 img{
+    height: 4.2rem;
+    margin-left: 0rem;
+    margin-top: 0rem;
+    position: absolute;
+
+}
+.icontext{
+    font-size: 1.1rem;
+    margin-left: 0.4rem;
+    margin-top: 4.3rem;
+    font-weight: 600;
+    position: absolute
+}
+ 
+   .icon1{
+    height: 5.8rem;
+    width: 5rem;
+    margin-top: 1rem;
+    margin-left: 5rem;
+}
+#carouselExampleInterval{
+    margin-top: 1rem;
+    box-shadow: 1PX 1PX 8PX 1PX gray;
+   
+   }
+
+
+   .bank{
+    height: 120px;
+    width: 100%;
+    margin-top: 1rem;
+    background-image: url("https://i.postimg.cc/bvJz0gWJ/bank.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 1PX 1PX 9X 1PX gray;
+   }
+
+   .pic>img{    
+    padding-left: 12px;
+    padding-top: 5px;
+    margin-left: 20px;
+}
+

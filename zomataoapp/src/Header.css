@@ -1,0 +1,210 @@
+*{
+    margin: 0x;
+    padding: 0px;
+    box-sizing: border-box;
+   
+}
+
+/* #coupon{
+    height:390px;
+    width: 690px;
+  
+    position: absolute;
+    z-index:10;
+    margin-left:28%;
+    margin-top: 16%;
+    opacity: 1;
+    background-image: url("images/offer.jpeg");
+    background-size:contain;
+    background-repeat: no-repeat;
+     */
+  
+  
+/* }
+ 
+#coupon button{
+    position: relative;
+     left:95%;
+      font-size: 35px;
+      background: transparent;
+      border: none;
+
+}
+#weather{
+    margin-top: 16px;
+    margin-left: 16px;
+    font-weight: 600;
+    
+}
+ 
+ .remove{
+    display: none;
+ }
+ 
+  #degree {
+     background: transparent;
+     border: none;
+     font-size: 22px;
+ }
+
+
+.mydark{
+    background-color: black;
+    color: white;
+}
+   */
+.but{
+    border: none;
+    background: transparent;
+    color: white;
+    padding-top: 16px;
+    padding-left: 25px;
+
+}
+
+ .header{
+    width: auto;
+ }
+.search{
+    height: 50px;
+        background-color: rgb(43, 135, 247);
+    display: flex;
+    padding-right: 1px;
+   
+   
+}
+.search a{
+    text-decoration: none;
+}
+
+body{
+    margin: auto;
+
+}
+svg{
+    margin-left:8rem ;
+    margin-top: 10px;
+}
+.deals{
+    height: 400px;
+    width:100%;
+    box-shadow: 0px 1px 7px 0px rgb(172, 170, 170);
+}
+.searchpanel input{
+    margin-top: 8px;
+    margin-left: 2rem;
+    padding: 1rem;
+    height: 1rem;
+    width: 27rem;
+    
+   
+}
+.btn{
+    margin-top: 9px;
+    margin-left: -3.5rem;
+    background-color: white;
+    border: none;
+    height: 2.1rem;
+    position: absolute;
+    cursor: pointer;
+}
+
+
+.login button{
+    margin-top: 13px;
+    margin-left: 5rem;
+    background-color: white;
+    border: none;
+    height: 1.8rem;
+    width: 8rem;
+    position: absolute;
+    cursor: pointer;
+    color: rgb(59, 91, 247);
+    font-weight: 600;
+    font-size: 1rem;
+}
+.tag1{
+    font-size: 1.4rem;
+    margin-left: 16rem;
+    margin-top: 0.5rem;
+    color: white;
+    font-weight: 550;
+
+
+}
+.tag2{
+    font-size: 1.4rem;
+    margin-left: 3rem;
+    margin-top: 0.5rem;
+    color: white;
+    font-weight: 550;
+
+
+}
+.tag3{
+    font-size: 1.4rem;
+    margin-left: 4rem;
+    margin-top: 0.5rem;
+    color: white;
+    font-weight: 550;
+
+
+}
+.tag3 img{
+
+    margin-left: -4rem;
+    margin-top: 0.7rem;
+    position: absolute;
+}
+input {
+    background-image:url("https://i.ibb.co/Lx8GXV8/searchicon.png");
+    background-repeat: no-repeat;
+     border: none;
+    background-position:right;
+    background-position-x:98% ;
+}
+
+
+#coupon{
+    height:390px;
+    width: 690px;
+    position: absolute;
+    z-index:10;
+    margin-left:28%;
+    margin-top: 16%;
+    opacity: 1;
+    background-image: url("https://i.ibb.co/HN9fN3K/offer.jpg");
+    background-size:contain;
+    background-repeat: no-repeat;
+}
+ 
+#coupon button{
+    position: relative;
+     left:95%;
+      font-size: 35px;
+      background: transparent;
+      border: none;
+
+}
+#weather{
+    margin-top: 16px;
+    margin-left: 16px;
+    font-weight: 600;
+    
+}
+ 
+ .remove{
+    display: none;
+ }
+ 
+  #degree {
+     background: transparent;
+     border: none;
+     font-size: 22px;
+ }
+
+
+.mydark{
+    background-color: black;
+    color: white;
+}
